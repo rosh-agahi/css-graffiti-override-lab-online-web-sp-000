@@ -12,6 +12,10 @@ div#wall div#tag-3.slick{
   display: none;
 }
 
+div#wall div.parent{
+  display: none;
+}
+
 <div id="wall">
     <div id="tag-2"></div>
     <div id="tag-3" class="slick wicked"></div>
